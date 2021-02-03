@@ -1,6 +1,6 @@
 public class Solution {
     public ArrayList<Integer> getRow(int A) {
-    
+      // creating ARRAYLIST OF ARRAYLIST 
         ArrayList<ArrayList <Integer>>res=new ArrayList<ArrayList<Integer>>();
         for(int i=0; i<=A; i++)
         {
